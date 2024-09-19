@@ -1,1 +1,15 @@
-/* Start coding here */
+#email {
+  background-color: lightgray;
+}
+
+#username:hover {
+  border-color: khaki;
+}
+
+#password:hover {
+  border-color: khaki;
+}
+
+button:hover {
+  color: pink;
+}
